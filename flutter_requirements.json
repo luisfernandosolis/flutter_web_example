@@ -1,0 +1,65 @@
+{
+  "app_name": "Aplicación de Login",
+  "theme": "dark",
+  "screens": [
+    {
+      "name": "Pantalla de Login",
+      "app_bar_title": "Login",
+      "background_color": "#000000",
+      "widgets": [
+        {
+          "type": "Text",
+          "label": "Ingrese sus credenciales",
+          "color": "#FFFFFF",
+          "font_size": 16,
+          "width": 200,
+          "height": 50,
+          "alignment": "center",
+          "padding": 10,
+          "margin": 10,
+          "icon": null,
+          "on_tap": null
+        },
+        {
+          "type": "TextField",
+          "label": "Usuario",
+          "color": "#FFFFFF",
+          "font_size": 16,
+          "width": 200,
+          "height": 50,
+          "alignment": "center",
+          "padding": 10,
+          "margin": 10,
+          "icon": null,
+          "on_tap": null
+        },
+        {
+          "type": "TextField",
+          "label": "Contraseña",
+          "color": "#FFFFFF",
+          "font_size": 16,
+          "width": 200,
+          "height": 50,
+          "alignment": "center",
+          "padding": 10,
+          "margin": 10,
+          "icon": null,
+          "on_tap": null
+        },
+        {
+          "type": "Button",
+          "label": "Iniciar Sesión",
+          "color": "#FFFFFF",
+          "font_size": 16,
+          "width": 200,
+          "height": 50,
+          "alignment": "center",
+          "padding": 10,
+          "margin": 10,
+          "icon": null,
+          "on_tap": "realizar_login"
+        }
+      ]
+    }
+  ]
+}

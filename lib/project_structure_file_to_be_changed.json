@@ -1,0 +1,10 @@
+{
+  "files_to_modify": [
+    {
+      "name": "main.dart",
+      "page": true,
+      "path": "main.dart",
+      "description": "Se debe modificar el color del fondo a azul y agregar un bot\u00f3n con el texto 'Hola Mundo' en la p\u00e1gina principal. Para cambiar el color del fondo a azul, se debe ajustar el color de fondo en el Scaffold de la clase MyHomePage. Adem\u00e1s, se debe agregar un nuevo RaisedButton con el texto 'Hola Mundo' en la columna que contiene el contador."
+    }
+  ]
+}
