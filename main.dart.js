@@ -57854,8 +57854,8 @@ A.vM.prototype={
 a_D(a){this.aD(new A.a2p(this,a))},
 NF(a){var s=null
 return A.km(A.Ao(s,A.An(B.jc,s),s,new A.a2j(a),s,s),s,s)},
-N(a){var s,r,q,p=null,o=A.dd("Productos relacionados a cursos de Inteligencia Artificial",A.lM(p,p,p,p,p,p,p,p,p,p,p,20,p,p,B.fu,p,p,!0,p,p,p,p,p,p,p,p)),n=t.sa
-n=A.a([A.a6s(A.a([A.iM(A.dd("Curso b\xe1sico de IA",p)),A.iM(A.dd("$100",p)),A.iM(A.Ao(p,A.An(B.fv,p),p,new A.a2l(),p,p))],n)),A.a6s(A.a([A.iM(A.dd("Curso avanzado de IA",p)),A.iM(A.dd("$200",p)),A.iM(A.Ao(p,A.An(B.fv,p),p,new A.a2m(),p,p))],n)),A.a6s(A.a([A.iM(A.dd("Curso de IA aplicada",p)),A.iM(A.dd("$300",p)),A.iM(A.Ao(p,A.An(B.fv,p),p,new A.a2n(),p,p))],n))],t.yy)
+N(a){var s,r,q,p=null,o=A.dd("Productos de ropa",A.lM(p,p,p,p,p,p,p,p,p,p,p,20,p,p,B.fu,p,p,!0,p,p,p,p,p,p,p,p)),n=t.sa
+n=A.a([A.a6s(A.a([A.iM(A.dd("Camiseta",p)),A.iM(A.dd("$20",p)),A.iM(A.Ao(p,A.An(B.fv,p),p,new A.a2l(),p,p))],n)),A.a6s(A.a([A.iM(A.dd("Pantalones",p)),A.iM(A.dd("$30",p)),A.iM(A.Ao(p,A.An(B.fv,p),p,new A.a2m(),p,p))],n)),A.a6s(A.a([A.iM(A.dd("Zapatos",p)),A.iM(A.dd("$50",p)),A.iM(A.Ao(p,A.An(B.fv,p),p,new A.a2n(),p,p))],n))],t.yy)
 o=A.km(A.Mm(A.a([o,new A.z7(B.jx,p,p,n,A.aiX(B.jx),p),new A.zI(new A.a2o(a),p,p,p,p,p,p,!1,p,!0,p,A.dd("Login",p),p)],t.E),B.aA,B.fU,B.dX),p,p)
 n=this.NF(a)
 s=A.km(A.dd("Ajustes",A.lM(p,p,p,p,p,p,p,p,p,p,p,30,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),p,p)
