@@ -57847,7 +57847,7 @@ return B.c.aH(r,s)},
 $S:398}
 A.B9.prototype={
 N(a){var s=null
-return new A.rt(new A.rG(s),"Fabriapps Academy 4",A.a7Q(B.Y,s,B.CE,s),s)}}
+return new A.rt(new A.rG(s),"Mi nueva aplicacion Flutter 3",A.a7Q(B.Y,s,B.CE,s),s)}}
 A.rG.prototype={
 ao(){return new A.vN()}}
 A.vN.prototype={
@@ -57859,7 +57859,7 @@ n=A.a([A.a6s(A.a([A.iM(A.dd("Curso b\xe1sico de IA",p)),A.iM(A.dd("$100",p)),A.i
 o=A.km(A.Mm(A.a([o,new A.z8(B.jA,p,p,n,A.aiX(B.jA),p),new A.zJ(new A.a2o(a),p,p,p,p,p,p,!1,p,!0,p,A.dd("Login",p),p)],t.E),B.aA,B.fW,B.dX),p,p)
 n=this.NF(a)
 s=A.km(A.dd("Ajustes",A.lM(p,p,p,p,p,p,p,p,p,p,p,30,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),p,p)
-r=A.dd("Fabriapps Academy 6",p)
+r=A.dd("Mi nueva aplicacion Flutter 3",p)
 r=A.a9x(new A.n4(A.ac9(p,p,new A.pt("assets/logo.png",p,p)),p),r)
 q=this.d
 s=[o,n,s][q]
