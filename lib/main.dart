@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Fabriapps Academy 4',
+      title: 'Mi nueva aplicacion Flutter 3',
       theme: ThemeData(
         primarySwatch: Colors.grey,
         brightness: Brightness.dark,
@@ -149,7 +149,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Fabriapps Academy 6'),
+        title: Text('Mi nueva aplicacion Flutter 3'),
         leading: Image.asset('assets/logo.png'),
       ),
       body: _children[_currentIndex],

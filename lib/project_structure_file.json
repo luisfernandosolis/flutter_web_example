@@ -2,6 +2,6 @@
   {
     "name": "main.dart",
     "path": "main.dart",
-    "description": "El archivo Dart proporcionado es una aplicaci\u00f3n Flutter que muestra una p\u00e1gina principal con un contador y un bot\u00f3n para incrementar el contador. La aplicaci\u00f3n tambi\u00e9n tiene una barra de navegaci\u00f3n inferior con dos opciones: \"Home\" y \"Favorites\". Al hacer clic en una de las opciones, la aplicaci\u00f3n navega a la p\u00e1gina correspondiente. La aplicaci\u00f3n utiliza temas y estilos de Material Design para la interfaz de usuario. La clase MyApp crea la aplicaci\u00f3n principal con el tema y la p\u00e1gina principal. La clase MyHomePage muestra el contador y maneja la l\u00f3gica para incrementarlo."
+    "description": "El archivo Dart proporcionado es una aplicaci\u00f3n Flutter que consta de tres clases principales: MyApp, MyHomePage y LoginPage. MyApp es el widget principal que configura la apariencia y la estructura de la aplicaci\u00f3n. MyHomePage es un StatefulWidget que muestra una lista de productos relacionados con cursos de Inteligencia Artificial y tiene pesta\u00f1as para la p\u00e1gina de inicio, perfil y ajustes. LoginPage es un StatelessWidget que muestra la p\u00e1gina de inicio de sesi\u00f3n. La aplicaci\u00f3n tambi\u00e9n incluye un BottomNavigationBar para navegar entre las diferentes pesta\u00f1as y un AlertDialog para mostrar el perfil del usuario."
   }
 ]
