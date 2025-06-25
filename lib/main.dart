@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Productos relacionados a cursos de Inteligencia Artificial',
+              'Productos de ropa',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             DataTable(
@@ -105,22 +105,22 @@ class _MyHomePageState extends State<MyHomePage> {
               rows: <DataRow>[
                 DataRow(
                   cells: <DataCell>[
-                    DataCell(Text('Curso básico de IA')),
-                    DataCell(Text('\$100')),
+                    DataCell(Text('Camiseta')),
+                    DataCell(Text('\$20')),
                     DataCell(IconButton(icon: Icon(Icons.arrow_forward), onPressed: () {})),
                   ],
                 ),
                 DataRow(
                   cells: <DataCell>[
-                    DataCell(Text('Curso avanzado de IA')),
-                    DataCell(Text('\$200')),
+                    DataCell(Text('Pantalones')),
+                    DataCell(Text('\$30')),
                     DataCell(IconButton(icon: Icon(Icons.arrow_forward), onPressed: () {})),
                   ],
                 ),
                 DataRow(
                   cells: <DataCell>[
-                    DataCell(Text('Curso de IA aplicada')),
-                    DataCell(Text('\$300')),
+                    DataCell(Text('Zapatos')),
+                    DataCell(Text('\$50')),
                     DataCell(IconButton(icon: Icon(Icons.arrow_forward), onPressed: () {})),
                   ],
                 ),

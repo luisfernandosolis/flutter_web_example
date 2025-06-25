@@ -4,7 +4,7 @@
       "name": "main.dart",
       "page": true,
       "path": "main.dart",
-      "description": "Se debe cambiar el t\u00edtulo del app a 'Mi aplicacion funcionando' y cambiar el color del tema a azul. Para cambiar el t\u00edtulo, se debe modificar la propiedad 'title' en la clase MyApp. Para cambiar el color del tema a azul, se debe modificar la propiedad 'primarySwatch' en la clase MyApp y asignarle el color azul deseado."
+      "description": "Se deben realizar cambios en la clase MyHomePage para que en lugar de mostrar una lista de productos relacionados con cursos de Inteligencia Artificial, muestre una lista de productos de ropa. Esto implicar\u00e1 modificar la l\u00f3gica de carga de datos y la visualizaci\u00f3n de los mismos en la interfaz de usuario."
     }
   ]
 }
