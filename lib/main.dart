@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Fabriapps Academy',
+      title: 'Fabriapps Academy 2',
       theme: ThemeData(
         primarySwatch: Colors.grey,
         brightness: Brightness.dark,
