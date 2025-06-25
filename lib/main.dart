@@ -149,7 +149,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Fabriapps Academy 2'),
+        title: Text('Fabriapps Academy 6'),
         leading: Image.asset('assets/logo.png'),
       ),
       body: _children[_currentIndex],
