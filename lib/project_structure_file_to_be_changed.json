@@ -4,7 +4,7 @@
       "name": "main.dart",
       "page": true,
       "path": "main.dart",
-      "description": "En el archivo main.dart, se debe modificar el t\u00edtulo del app en la clase MyApp. Buscar la propiedad 'title' dentro de la clase MyApp y cambiar su valor a 'Mi nueva aplicacion Flutter 3'. Por ejemplo: title: 'Mi nueva aplicacion Flutter 3',"
+      "description": "Se debe cambiar el t\u00edtulo del app a 'Mi aplicacion funcionando' y cambiar el color del tema a azul. Para cambiar el t\u00edtulo, se debe modificar la propiedad 'title' en la clase MyApp. Para cambiar el color del tema a azul, se debe modificar la propiedad 'primarySwatch' en la clase MyApp y asignarle el color azul deseado."
     }
   ]
 }

@@ -10,9 +10,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mi nueva aplicacion Flutter 3',
+      title: 'Mi aplicacion funcionando',
       theme: ThemeData(
-        primarySwatch: Colors.grey,
+        primarySwatch: Colors.blue,
         brightness: Brightness.dark,
       ),
       home: MyHomePage(),
@@ -149,7 +149,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Mi nueva aplicacion Flutter 3'),
+        title: Text('Mi aplicacion funcionando'),
         leading: Image.asset('assets/logo.png'),
       ),
       body: _children[_currentIndex],
