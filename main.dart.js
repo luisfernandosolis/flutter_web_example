@@ -57847,7 +57847,7 @@ return B.c.aH(r,s)},
 $S:398}
 A.B9.prototype={
 N(a){var s=null
-return new A.rt(new A.rG(s),"Fabriapps Academy 2",A.a7Q(B.Y,s,B.CE,s),s)}}
+return new A.rt(new A.rG(s),"Fabriapps Academy 4",A.a7Q(B.Y,s,B.CE,s),s)}}
 A.rG.prototype={
 ao(){return new A.vN()}}
 A.vN.prototype={
